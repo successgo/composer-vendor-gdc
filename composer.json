@@ -1,5 +1,5 @@
 {
-    "name": "success/composer-vendor-go",
+    "name": "go/composer-vendor-go",
     "type": "metapackage",
     "license": "MIT",
     "authors": [

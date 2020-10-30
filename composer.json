@@ -1,0 +1,12 @@
+{
+    "name": "success/composer-vendor-go",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Success Go",
+            "email": "success.go@gaodacheng.com"
+        }
+    ],
+    "require": {}
+}

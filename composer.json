@@ -1,5 +1,5 @@
 {
-    "name": "go/composer-vendor-go",
+    "name": "gdc/composer-vendor-gdc",
     "type": "metapackage",
     "license": "MIT",
     "authors": [
